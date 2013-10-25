@@ -1,4 +1,3 @@
-zeitgeist-sluggable
-===================
+# Sluggable Behaviour (ZeitgeistModel)
 
-ZeitgeistModel's Sluggable behaviour for Meteor
+Sluggable Behaviour (ZeitgeistModel) for Meteor
