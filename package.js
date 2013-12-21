@@ -1,10 +1,10 @@
 Package.describe({
-  summary: 'Sluggable Behaviour (ZeitgeistModel) for Meteor'
+  summary: 'Sluggable behavior for Meteor\'s Verin Model package'
 });
 
 Package.on_use(function (api) {
   api.use([
-    'zeitgeist-model'
+    'verin-model'
   ], ['client', 'server']);
   
   api.add_files([
